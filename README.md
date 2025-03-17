@@ -13,5 +13,5 @@ This repository contains the basics of NLTK, covering:
 12)Making a Frequency Distribution
 13)Finding Collocations
 
-Refer the follow in documentation link:
+Refer the follow documentation link:
 https://realpython.com/nltk-nlp-python/
